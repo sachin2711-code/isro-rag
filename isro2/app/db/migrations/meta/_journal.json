@@ -1,0 +1,13 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1782843396303,
+      "tag": "0000_true_white_tiger",
+      "breakpoints": true
+    }
+  ]
+}
