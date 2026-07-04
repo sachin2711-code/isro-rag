@@ -261,5 +261,5 @@ Output is written to `dist/`.
 - **Don't modify component files** unless fixing a real bug — the fluid shader, scroll ring, and detail-page scroll restoration are load-bearing.
 - Color / font / spacing tokens are hardcoded in component styles and in `tailwind.config.js`.
 
-## Demo Video - Coming soon...
+
 
